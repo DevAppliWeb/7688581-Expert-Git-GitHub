@@ -1,5 +1,5 @@
 # Code de conduite _Contributor Covenant_
-
+A prendre au sérieux !
 ## Notre engagement
 
 En tant que membres, contributeurs et dirigeants, nous nous
