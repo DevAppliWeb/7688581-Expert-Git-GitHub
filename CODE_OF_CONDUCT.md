@@ -1,6 +1,8 @@
 # Code de conduite _Contributor Covenant_
 
-UNe erreur d'inatention
+
+Fichier à lire sérieusement !
+
 ## Notre engagement
 
 En tant que membres, contributeurs et dirigeants, nous nous
